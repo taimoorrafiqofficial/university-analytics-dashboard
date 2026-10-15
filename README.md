@@ -25,8 +25,8 @@ This project presents a University Analytics Dashboard built using Microsoft Pow
 - Dashboard Design
 
 ## 🖼️ Dashboard Preview
-<!-- Replace university dashboard.PNG with your actual screenshot filename -->
-![university dashboard](university dashboard.PNG)
+<!-- Replace university-dashboard.png with your actual screenshot filename -->
+![University Analytics Dashboard](university-analytics-dashboard.PNG)
 
 ## 📚 What I Learned
 Through this project, I practiced transforming data, working with related tables, and presenting student information through an interactive dashboard.
