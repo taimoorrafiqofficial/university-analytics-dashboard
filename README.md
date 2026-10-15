@@ -1,3 +1,7 @@
+## 🖼️ Dashboard Preview
+<!-- Replace university-dashboard.png with your actual screenshot filename -->
+![University Analytics Dashboard](university-analytics-dashboard.PNG)
+
 
 # 🎓 University Analytics Dashboard — Power BI
 
@@ -23,10 +27,6 @@ This project presents a University Analytics Dashboard built using Microsoft Pow
 - Data Modeling
 - Data Visualization
 - Dashboard Design
-
-## 🖼️ Dashboard Preview
-<!-- Replace university-dashboard.png with your actual screenshot filename -->
-![University Analytics Dashboard](university-analytics-dashboard.PNG)
 
 ## 📚 What I Learned
 Through this project, I practiced transforming data, working with related tables, and presenting student information through an interactive dashboard.
